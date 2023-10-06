@@ -8,6 +8,8 @@ Because we're using the DeepSleep mode, 3xAA batteries should be able to power i
 **Disclaimer #2** : Each box can only be configured to perform a single action. <br>
 **Disclaimer #3** : Not responsible for any world-ending scenarios created by your local Jerry due to unsupervised usage.
 
+### Buy One
+Want a Kit? Want a finished version? Check out my [Etsy](https://www.etsy.com/listing/1582550099/working-meeseeks-box-connects-to-alexa?ref=github)
 ### How it works
 The included firmware is fairly simple:
 - When the box turns on:
@@ -61,5 +63,7 @@ The included firmware is fairly simple:
 6. Click "Save"
 7. Your Meeeseeks box will now reboot. Push the button to trigger your event.
 
-### Screenshots
+### Pictures
 ![A circuit diagram for the ESP01. Described in the wiring diagram section](diagram.png)
+![A completely assembled Kirkland Meeseeks Box](IMG_0335.png)
+![Wiring harness, battery box, chip, and button](IMG_0338.png)
