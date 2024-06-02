@@ -8,8 +8,7 @@ Because we're using the DeepSleep mode, 3xAA batteries should be able to power i
 **Disclaimer #2** : Each box can only be configured to perform a single action. <br>
 **Disclaimer #3** : Not responsible for any world-ending scenarios created by your local Jerry due to unsupervised usage.
 
-### Buy One
-Want a Kit? Want a finished version? Check out my [Etsy](https://www.etsy.com/listing/1582550099/working-meeseeks-box-connects-to-alexa?ref=github)
+
 ### How it works
 The included firmware is fairly simple:
 - When the box turns on:
